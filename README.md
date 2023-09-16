@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi Rafati</h1>
-<h3 align="center">A Curious  Programmer 🔭</h3>
+<h3 align="center"> 🔭 A Curious  Programmer</h3>
 
 # 💫 About Me:
 ✒️ I'm solving problems on LeetCode to improve my programming skills<br>👨‍💻 I’m looking for some project to build and add to my resume<br>🌱 I’m currently learning Machine Learning concepts and libraries <br>
