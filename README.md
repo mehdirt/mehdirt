@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi Rafati</h1>
-<h3 align="center"> 🔭 A Curious  Programmer</h3>
+<h3 align="center"> 🔭 A Curious  ML Engineer</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehdi_.rt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-rafati-97420a197) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mehdi.rt) 
