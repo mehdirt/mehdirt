@@ -49,14 +49,14 @@ Building ML systems with Transformers, PyTorch, YOLO, and MLOps tools.
 ### NLP Pipeline for Amazon Reviews
 Transformer-based sentiment analysis system trained on 800K+ Amazon reviews using DeBERTa and semantic search techniques.
 
-**Tech:** PyTorch • Hugging Face • Sentence Transformers • FastText
+**Tech:** PyTorch • Hugging Face • Sentence Transformers • FastText • BERT family 
 
 ---
 
 ### Real Estate Market Analysis & Price Prediction
 Large-scale ML pipeline for clustering, statistical analysis, and price prediction on 1M+ real estate records.
 
-**Tech:** LightGBM • Scikit-learn • Pandas
+**Tech:** LightGBM • RandomForrest • Kmeans • DBSCAN • Scipy • Scikit-learn • Pandas
 
 ---
 
@@ -75,6 +75,7 @@ Published through IEEE/IPRIA.
 - 93% Accuracy
 - 97% AUC
 - Metabolomic healthcare classification
+- Feature Selection Pipeline
 
 ---
 
