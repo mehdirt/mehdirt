@@ -1,9 +1,91 @@
-<h1 align="center">Hi 👋, I'm Mahdi Rafati</h1>
-<h3 align="center"> 🔭 A Curious  ML Engineer</h3>
+# Mahdi Rafati
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehdi_.rt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-rafati-97420a197) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mehdi.rt) 
+Machine Learning Engineer focused on NLP, Deep Learning, and Computer Vision.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+Currently building and deploying ML systems using PyTorch, Transformers, FastAPI, and Docker.
 
+---
+
+## About Me
+
+- Building ML/DL systems on large-scale real-world datasets (up to 1M+ records)
+- Interested in NLP systems, Computer Vision, and MLOps
+- Research experience in healthcare AI with IEEE/IPRIA publication
+- Currently focused on deployment, scalable ML pipelines, and production ML systems
+
+---
+
+## Tech Stack
+
+### Machine Learning & Deep Learning
+PyTorch • TensorFlow • Scikit-learn • LightGBM • XGBoost
+
+### NLP
+Transformers • BERT • DeBERTa • Sentence Transformers • Semantic Search
+
+### Computer Vision
+YOLO • OpenCV • Object Detection • Tracking
+
+### MLOps & Deployment
+Docker • FastAPI • MLflow • Airflow • DVC • Git
+
+### Data & Databases
+Pandas • NumPy • PostgreSQL • MongoDB
+
+---
+
+## Featured Projects
+
+### NLP Pipeline for Amazon Reviews
+Transformer-based sentiment analysis system trained on 800K+ Amazon reviews using DeBERTa, semantic search, and large-scale NLP preprocessing.
+
+**Tech:** PyTorch, Hugging Face Transformers, FastText, Sentence Transformers
+
+---
+
+### Real Estate Market Analysis & Price Prediction
+Large-scale ML pipeline for statistical analysis, clustering, and price prediction on 1M+ real estate records.
+
+**Tech:** LightGBM, Scikit-learn, Pandas, NumPy
+
+---
+
+### Traffic Object Detection & Tracking
+Real-time traffic monitoring system using YOLOv8 and ByteTrack for object detection, tracking, and traffic flow analytics.
+
+**Tech:** YOLOv8, OpenCV, Python
+
+---
+
+### Healthcare AI Research
+Optimized CatBoost-based gastric cancer detection system using metabolomic data.
+
+- 93% Accuracy
+- 97% AUC
+- Published through IEEE/IPRIA
+
+---
+
+## Research
+
+### Optimized CatBoost for Gastric Cancer Detection
+Published research on healthcare ML and metabolomic classification using optimized CatBoost models and feature selection techniques.
+
+---
+
+## Current Focus
+
+- Production-ready ML systems
+- FastAPI & Docker deployment
+- Airflow pipelines
+- Scalable NLP systems
+- Applied Deep Learning
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/mehdirt
+- GitHub: https://github.com/mehdirt
+- Medium: https://medium.com/@mehdirt
+- ResearchGate: https://researchgate.net/profile/Mahdi-Rafati-Sahneh-Saraei
