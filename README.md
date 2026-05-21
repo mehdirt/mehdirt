@@ -1,91 +1,90 @@
-# Mahdi Rafati
+<h1 align="center">Mahdi Rafati</h1>
 
-Machine Learning Engineer focused on NLP, Deep Learning, and Computer Vision.
+<p align="center">
+Machine Learning Engineer • NLP • Deep Learning • Computer Vision
+</p>
 
-Currently building and deploying ML systems using PyTorch, Transformers, FastAPI, and Docker.
+<p align="center">
+Building ML systems with Transformers, PyTorch, YOLO, and MLOps tools.
+</p>
 
 ---
 
 ## About Me
 
 - Building ML/DL systems on large-scale real-world datasets (up to 1M+ records)
-- Interested in NLP systems, Computer Vision, and MLOps
+- Interested in NLP systems, Computer Vision, and production ML
 - Research experience in healthcare AI with IEEE/IPRIA publication
-- Currently focused on deployment, scalable ML pipelines, and production ML systems
+- Currently focused on deployment, scalable pipelines, and MLOps
 
 ---
 
 ## Tech Stack
 
-### Machine Learning & Deep Learning
-PyTorch • TensorFlow • Scikit-learn • LightGBM • XGBoost
+### ML / DL
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-black?style=flat&logo=scikitlearn)
+![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat)
 
 ### NLP
-Transformers • BERT • DeBERTa • Sentence Transformers • Semantic Search
+![Transformers](https://img.shields.io/badge/Transformers-black?style=flat)
+![BERT](https://img.shields.io/badge/BERT-black?style=flat)
+![Sentence Transformers](https://img.shields.io/badge/SentenceTransformers-black?style=flat)
 
 ### Computer Vision
-YOLO • OpenCV • Object Detection • Tracking
+![YOLO](https://img.shields.io/badge/YOLO-black?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat&logo=opencv)
 
-### MLOps & Deployment
-Docker • FastAPI • MLflow • Airflow • DVC • Git
-
-### Data & Databases
-Pandas • NumPy • PostgreSQL • MongoDB
+### MLOps
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi)
+![MLflow](https://img.shields.io/badge/MLflow-black?style=flat)
+![Airflow](https://img.shields.io/badge/Airflow-black?style=flat&logo=apacheairflow)
 
 ---
 
 ## Featured Projects
 
 ### NLP Pipeline for Amazon Reviews
-Transformer-based sentiment analysis system trained on 800K+ Amazon reviews using DeBERTa, semantic search, and large-scale NLP preprocessing.
+Transformer-based sentiment analysis system trained on 800K+ Amazon reviews using DeBERTa and semantic search techniques.
 
-**Tech:** PyTorch, Hugging Face Transformers, FastText, Sentence Transformers
+**Tech:** PyTorch • Hugging Face • Sentence Transformers • FastText
 
 ---
 
 ### Real Estate Market Analysis & Price Prediction
-Large-scale ML pipeline for statistical analysis, clustering, and price prediction on 1M+ real estate records.
+Large-scale ML pipeline for clustering, statistical analysis, and price prediction on 1M+ real estate records.
 
-**Tech:** LightGBM, Scikit-learn, Pandas, NumPy
+**Tech:** LightGBM • Scikit-learn • Pandas
 
 ---
 
 ### Traffic Object Detection & Tracking
-Real-time traffic monitoring system using YOLOv8 and ByteTrack for object detection, tracking, and traffic flow analytics.
+Real-time traffic monitoring system using YOLOv8 and ByteTrack for object detection and traffic analytics.
 
-**Tech:** YOLOv8, OpenCV, Python
-
----
-
-### Healthcare AI Research
-Optimized CatBoost-based gastric cancer detection system using metabolomic data.
-
-- 93% Accuracy
-- 97% AUC
-- Published through IEEE/IPRIA
+**Tech:** YOLOv8 • OpenCV • Python
 
 ---
 
 ## Research
 
 ### Optimized CatBoost for Gastric Cancer Detection
-Published research on healthcare ML and metabolomic classification using optimized CatBoost models and feature selection techniques.
+Published through IEEE/IPRIA.
+
+- 93% Accuracy
+- 97% AUC
+- Metabolomic healthcare classification
 
 ---
 
 ## Current Focus
 
-- Production-ready ML systems
-- FastAPI & Docker deployment
-- Airflow pipelines
-- Scalable NLP systems
-- Applied Deep Learning
-
----
-
-## Connect With Me
-
-- LinkedIn: https://linkedin.com/in/mehdirt
-- GitHub: https://github.com/mehdirt
-- Medium: https://medium.com/@mehdirt
-- ResearchGate: https://researchgate.net/profile/Mahdi-Rafati-Sahneh-Saraei
+```python
+focus = [
+    "Production ML Systems",
+    "FastAPI & Docker Deployment",
+    "Airflow Pipelines",
+    "Scalable NLP Systems",
+    "Applied Deep Learning"
+]
